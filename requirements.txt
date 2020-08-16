@@ -2,7 +2,7 @@ numpy==1.11.0
 networkx==1.11
 -e git+https://github.com/keyphact/pgoapi.git@249d3be7fbbdabc7f9adea17cbc899d6549e47a2#egg=pgoapi
 geopy==1.11.0
-protobuf==3.0.0b4
+protobuf==3.4.0
 requests==2.10.0
 s2sphere==0.2.4
 gpsoauth==0.3.0
